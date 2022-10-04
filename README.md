@@ -1,3 +1,5 @@
+![logo](./images/logo.jpeg)
+
 <h1 align="center">Hi 👋, I'm Denis</h1>
 <h3 align="center">A passionate developer from Ukraine</h3>
 
@@ -9,14 +11,14 @@
 
 - 📫 How to reach me **denislevch2023@gmail.com**
 
-- 📄 Know about my experiences <a href="https://www.linkedin.com/in/denis-%E2%8A%99-%E2%8A%99-230b15210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="20" /></a>
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/denis-%E2%8A%99-%E2%8A%99-230b15210/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="20" /></a>
 
 - 👨‍💻 Briefly about me **trainee web developer / student at ZNU**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/denis (⊙_⊙)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denis (⊙_⊙)" height="30" width="40" /></a>
-<a href="https://t.me/caandyflip" target="blank"><img align="center" src="./images/telegram.svg" alt="@caandyflip" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/denis (⊙_⊙)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denis (⊙_⊙)" height="30" width="40" /></a>
+<a href="https://t.me/caandyflip" target="_blank"><img align="center" src="./images/telegram.svg" alt="@caandyflip" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
