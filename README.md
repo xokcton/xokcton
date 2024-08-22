@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **denislevch2023@gmail.com**
 
-- 📄 Know about my experiences: **<a href="https://www.linkedin.com/in/denis-%E2%8A%99-%E2%8A%99-230b15210/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="20" /></a>**
+- 📄 Know about my experiences: **<a href="https://www.linkedin.com/in/caandyflip/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="20" /></a>**
 
 - 👨‍💻 Briefly about me: **trainee web developer / student at ZNU**
 
