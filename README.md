@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xokcton&label=Profile%20views&color=004cff&style=flat" alt="xokcton" /> </p>
 
-- 🌱 I’m currently learning: **<a href="https://nestjs.com/" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/nestjs_logo_icon_168087.png" alt="nestjs" height="20" width="20" /></a>**
-
 - 📫 How to reach me: **denislevch2023@gmail.com**
 
 - 📄 Know about my experiences: **<a href="https://www.linkedin.com/in/caandyflip/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="20" /></a>**
